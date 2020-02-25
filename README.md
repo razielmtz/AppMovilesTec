@@ -21,3 +21,22 @@ git diff// saber cuales han sido los cambios
 
 git add <.> <file>
 
+git status 
+
+git commit -m
+
+git checkout -b feature/readme
+
+git push origin feature/readme
+
+git checkout (branch)
+
+//cancela todos losc ambios
+git checkout <.>
+git checkout <Branch>
+git checkout <file>
+
+//save
+git stash //guarda cambios en chache
+
+git stash pop
